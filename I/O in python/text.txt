@@ -1,0 +1,7 @@
+f.writefile myfile.txt
+Hello this is first text
+This is second text
+This is third text
+
+myfile = open('myfile.txt')
+print(myfile)
